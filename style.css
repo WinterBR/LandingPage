@@ -154,6 +154,13 @@ button.inferior {
     padding-bottom: 40px; 
 }
 
+@media (max-width: 1236px) {
+    button.inferior {
+        padding-bottom: 60px; 
+    }
+
+}
+
 @media (max-width: 1024px) {
     header {
         padding: 50px;
