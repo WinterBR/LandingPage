@@ -210,6 +210,10 @@ button.inferior {
         font-size: 8px;
         padding: 10px;
     }
+
+    button.inferior {
+        padding-bottom: 60px; 
+    }
 }
 
 /* Estilos para telas menores que 768px (tablets e celulares) */
